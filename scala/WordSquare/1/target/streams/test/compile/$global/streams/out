@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mkrisher/Private/code/katas/scala/WordSquare/1/src/test/scala/WordSearchTest.scala:11:14: org.scalatest.Assertion with org.scalatest.PendingStatement does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m      pending("should return true") {[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mkrisher/Private/code/katas/scala/WordSquare/1/src/test/scala/WordSearchTest.scala:17:14: org.scalatest.Assertion with org.scalatest.PendingStatement does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m      pending("should return false") {[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

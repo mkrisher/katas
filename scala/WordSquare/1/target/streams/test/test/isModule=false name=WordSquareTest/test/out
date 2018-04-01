@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mWordSquareTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWordSquare#process[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  with words that can be used to form a square[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should return true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  with words that can NOT be used to form a square[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should return false[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWordsSquare#checkWords[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return true if an input word can be used as the next word in the square[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWordsSquare#searchString[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  with only one matching word[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - returns a substring containing the character for each matched word at a given position[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  with two matching words[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - returns a substring containing the character for each matched word at a given position[0m[0m
